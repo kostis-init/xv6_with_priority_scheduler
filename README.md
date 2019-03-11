@@ -11,3 +11,5 @@ Differences from the original:
 -sysproc.c: new syscall printRunningProc (also changed syscall.c etc.)
 -minheap.c/h
 -w1,w2,w3,w4,w5: Workloads for testing scheduler.
+
+This was an assignment for the class of Operating Systems in DIT of UoA (2017)
